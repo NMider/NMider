@@ -1,4 +1,4 @@
-  Hi, I’m @NMider
+  Hi, I’m @NMider<br>
   I’m interested in understanding Front-End programming
   Currently, I am learning HTML first, followed by CSS, and then JavaScript.
   I’m looking to collaborate on you.
