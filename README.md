@@ -2,7 +2,7 @@
   I’m interested in understanding Front-End programming<br>
   Currently, I am learning HTML first, followed by CSS, and then JavaScript.<br>
   I’m looking to collaborate on you.<br>
-  How to reach me anywhere
+  How to reach me? Anywhere
 
 <!---
 NMider/NMider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
